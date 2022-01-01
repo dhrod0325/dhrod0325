@@ -1,5 +1,7 @@
 ### 설아아빠 IN JEJU 👋
 
+![dhrod0325's github stats](https://github-readme-stats.vercel.app/api?username=dhrod0325&show_icons=true)
+
 - [Velog](https://velog.io/@dhrod0325)
 
 <!--
