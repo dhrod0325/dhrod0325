@@ -1,8 +1,13 @@
 ### 설아아빠 IN JEJU 👋
 
-![dhrod0325's github stats](https://github-readme-stats.vercel.app/api?username=dhrod0325&show_icons=true)
+<div>
+<img src="https://raw.githubusercontent.com/dhrod0325/github-stats-transparent/f2fec06e3969656cfdfc727e37e2d6648a988582/generated/languages.svg"/>
+<img src="https://raw.githubusercontent.com/dhrod0325/github-stats-transparent/f2fec06e3969656cfdfc727e37e2d6648a988582/generated/overview.svg"/>
+</div>
 
 - [Velog](https://velog.io/@dhrod0325)
+
+![dhrod0325's github stats](https://github-readme-stats.vercel.app/api?username=dhrod0325&show_icons=true)
 
 <!--
 **dhrod0325/dhrod0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
