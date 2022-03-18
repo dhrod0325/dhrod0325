@@ -1,9 +1,5 @@
 # 설아아빠 IN JEJU 👋
 
-<a href="https://velog.io/@dhrod0325">
-<img src="https://media.vlpt.us/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png?w=80"/>
-</a>
-
 ![dhrod0325's github stats](https://github-readme-stats.vercel.app/api?username=dhrod0325&show_icons=true)
 
 <!--
