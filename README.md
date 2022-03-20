@@ -1,6 +1,6 @@
 # 설아아빠 IN JEJU 👋
 
-## 어제보다 발전한 오늘의 나
+> 어제보다 발전한 오늘의 나
 
 ![dhrod0325's github stats](https://github-readme-stats.vercel.app/api?username=dhrod0325&show_icons=true)
 
